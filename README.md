@@ -31,13 +31,15 @@ python main.py
 
 (Add screenshot here)
 
-## Future Improvements
+## Features
 
-* Excel (.xlsx) export
-* Expense summary dashboard
-* Data visualization charts
-* Monthly spending reports
-
+- Add expenses with date, category, amount and notes
+- Delete expenses
+- Search expenses by date or category
+- View total expenses
+- Export expenses to CSV
+- Visualize expenses using pie charts
+- User-friendly Tkinter GUI
 ## Author
 
 Hemanth Rajkumar
