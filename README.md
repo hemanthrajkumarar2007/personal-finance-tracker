@@ -1,20 +1,43 @@
-# Personal Finance Tracker
+## Personal Finance Tracker
 
-This is a simple Python GUI project made using Tkinter.
+A simple Personal Finance Tracker built using Python, Tkinter, and CSV files.
 
-Features:
-- Add expenses
-- View expenses in table format
-- Export expenses to CSV file
+## Features
 
-Technologies Used:
-- Python
-- Tkinter
-- CSV File Handling
+* Add and manage expenses
+* Categorize expenses
+* Export expense data to CSV
+* User-friendly graphical interface
+* Expense records stored locally
 
-How to Run:
-1. Open project folder in VS Code
-2. Run:
-  python main.py
+## Technologies Used
 
-The app will open in a GUI window where you can manage expenses easily.
+* Python
+* Tkinter
+* CSV
+* Git & GitHub
+
+## How to Run
+
+1. Clone the repository
+2. Open the project folder
+3. Run:
+
+```bash
+python main.py
+```
+
+## Project Screenshot
+
+(Add screenshot here)
+
+## Future Improvements
+
+* Excel (.xlsx) export
+* Expense summary dashboard
+* Data visualization charts
+* Monthly spending reports
+
+## Author
+
+Hemanth Rajkumar
