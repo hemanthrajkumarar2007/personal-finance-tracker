@@ -23,13 +23,13 @@ A simple Personal Finance Tracker built using Python, Tkinter, and CSV files.
 2. Open the project folder
 3. Run:
 
-```bash
+
 python main.py
-```
+
 
 ## Project Screenshot
 
-(Add screenshot here)
+(Added screenshot as app_screenshot.png)
 
 ## Features
 
@@ -42,4 +42,4 @@ python main.py
 - User-friendly Tkinter GUI
 ## Author
 
-Hemanth Rajkumar
+Hemanth Rajkumar A R
